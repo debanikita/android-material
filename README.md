@@ -13,7 +13,7 @@ To start working with material button, you need to add its dependency into your 
 ### Dependency
 ```groovy
 dependencies {
-    implementation "com.github.debanikita:android-material:1.0.0.beta"
+    implementation "com.github.debanikita:android-material:1.0.0.beta" // Androidx...
 }
 ```
 
