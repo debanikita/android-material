@@ -1,6 +1,6 @@
 # Material Button and Toast
 
-[![](https://jitpack.io/v/debanikita/material.svg)](https://jitpack.io/#debanikita/material)
+[![](https://jitpack.io/v/debanikita/android-material.svg)](https://jitpack.io/#debanikita/android-material)
 
 # Coming Soon Gradient Button Source Code And Toast Source Code ❤️
 
@@ -13,7 +13,7 @@ To start working with material button, you need to add its dependency into your 
 ### Dependency
 ```groovy
 dependencies {
-    implementation "com.github.debanikita:material:1.0.0"
+    implementation "com.github.debanikita:android-material:1.0.0.beta"
 }
 ```
 
