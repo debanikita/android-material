@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<com.google.android.material.appbar.AppBarLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+		<androidx.appcompat.widget.Toolbar
+			android:id="@+id/toolbar"
+			android:layout_width="match_parent"
+			android:layout_height="?attr/actionBarSize"
+			app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+	</com.google.android.material.appbar.AppBarLayout>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<LinearLayout
+			android:orientation="vertical"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true">
+			
+			<com.debashis.io.material.button.DnButton
+				android:id="@+id/DnButton1"
+				android:layout_width="@dimen/layout_width"
+				android:layout_height="@dimen/layout_height"
+				android:layout_marginVertical="@dimen/layout_marginVertical"
+				android:text="@string/nikita"
+				app:cornerRadius="@dimen/cornerRadius1"
+				app:rippleColor="@color/white"
+				app:strokeColor="@color/white"
+				app:elevation="@dimen/btnelevation"
+				app:useScale="true"
+				app:backgroundTint="@color/colorAccent"
+				android:onClick="onClick"/>
+
+			<com.debashis.io.material.button.DnButton
+				android:id="@+id/DnButton2"
+				android:layout_width="@dimen/layout_width"
+				android:layout_height="@dimen/layout_height"
+				android:layout_marginVertical="@dimen/layout_marginVertical"
+				app:cornerRadius="@dimen/cornerRadius1"
+				app:rippleColor="@color/white"
+				app:strokeColor="@color/white"
+				app:elevation="@dimen/btnelevation"
+				app:useScale="true"
+				android:text="@string/python"
+				android:drawableStart="@drawable/language_python"
+				app:backgroundTint="@color/colorAccent"
+				android:onClick="onClick"/>
+			
+			
+		</LinearLayout>
+
+	</RelativeLayout>
+
+</LinearLayout>
+
