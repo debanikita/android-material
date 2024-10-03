@@ -1,6 +1,12 @@
 # Material Button and Toast
 
-[![](https://jitpack.io/v/debanikita/android-material.svg)](https://jitpack.io/#debanikita/android-material)
+
+[![JitPack](https://img.shields.io/badge/JitPack-1.0.0.beta-brightgreen.svg?style=for-the-badge)](https://jitpack.io/#debanikita/android-material)        
+
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://debanikita.blogspot.com)   
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mr.deba.000?mibextid=ZbWKwL)
+
 
 # Coming Soon Gradient Button Source Code And Toast Source Code ❤️
 
