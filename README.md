@@ -261,7 +261,7 @@ Use material button in the layout via xml
 
 ### Button 9,10 Design
 
-<img src="https://github.com/debanikita/android-material/blob/143cbf549890a5d608f1cac1385cdb240ca17a73/20241004_221841.png"/>
+<img src="https://github.com/debanikita/android-material/blob/b1931a8d61c031e4fecd9c5e0df108464e69396f/20241004_222405.png"/>
 
 ```XML
 
