@@ -11,7 +11,7 @@
 # Coming Soon Gradient Button Source Code And Toast Source Code ❤️
 
 ## Screenshot
-<img src="https://github.com/debanikita/android-material/blob/1a72b6de41047c7b162b189c21632411cd2d851d/Material%20Design%20Button.png"/>
+<img src="https://github.com/debanikita/android-material/blob/main/app/src/main/res/drawable/material-button-style.png"/>
 
 ## Getting Started
 
