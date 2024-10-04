@@ -33,8 +33,6 @@ repositories {
 }
 ```
 
-## Sample
-There is a fully functional sample application that demonstrates the usage of material button, all you have to do is cloning the project and running the [sample](https://github.com/farasource/material-button/tree/master/sample) module.
 ## How to use
 
 Use material button in the layout pragmatically
