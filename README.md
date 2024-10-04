@@ -98,6 +98,118 @@ Use material button in the layout via xml
     app:scale="1.03"
     app:useScale="true" />
 ```
+# Example
+
+### Button 1,2 Design
+
+```XML
+<com.debashis.io.material.button.DnButton
+    android:id="@+id/DnButton1"
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:layout_marginHorizontal="10dp"
+    android:text="Love"
+    app:cornerRadius="2dp"
+    app:rippleColor="@color/white"
+    app:strokeColor="@color/white"
+    app:strokeWidth="0dp"
+    app:elevation="1dp"
+    app:useScale="true"
+    app:backgroundTint="#651FFF"
+    android:layout_marginBottom="10dp"/>
+    
+<com.debashis.io.material.button.DnButton
+    android:id="@+id/DnButton2"
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:layout_marginHorizontal="10dp"
+    app:cornerRadius="2dp"
+    app:rippleColor="@color/white"
+    app:strokeColor="@color/white"
+    app:strokeWidth="0dp"
+    app:elevation="1dp"
+    app:useScale="true"
+    android:text="Java"
+    android:drawableStart="@drawable/language_java"
+    app:backgroundTint="#651FFF"/>
+```
+### Button 3,4 Design
+
+
+```XML
+<com.debashis.io.material.button.DnButton
+    android:id="@+id/DnButton3"
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:layout_marginHorizontal="10dp"
+    android:text="Python"
+    app:cornerRadius="30dp"
+    app:rippleColor="@color/white"
+    app:strokeColor="@color/white"
+    app:strokeWidth="0dp"
+    app:elevation="1dp"
+    app:useScale="true"
+    android:drawableStart="@drawable/language_python"
+    app:backgroundTint="#FF1744"
+    android:layout_marginBottom="10dp"/>
+    
+<com.debashis.io.material.button.DnButton
+    android:id="@+id/DnButton4"
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:layout_marginHorizontal="10dp"
+    android:text="Xml"
+    app:cornerRadius="30dp"
+    app:rippleColor="@color/white"
+    app:strokeColor="@color/white"
+    app:strokeWidth="0dp"
+    app:elevation="1dp"
+    app:useScale="true"
+    android:drawableEnd="@drawable/xml"
+    app:backgroundTint="#FF1744"
+    android:layout_marginBottom="10dp"/>
+    		
+```
+
+### Button 5,6 Design
+
+```XML
+
+<com.debashis.io.material.button.DnButton
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:text="Github"
+    app:elevation="1dp"
+    android:layout_marginHorizontal="10dp"
+    android:drawableStart="@drawable/github"
+    app:backgroundTint="#FF4081"
+    app:cornerBottomStartRadius="30dp"
+    app:cornerTopStartRadius="30dp"
+    app:cornerBottomEndRadius="0dp"
+    app:cornerTopEndRadius="0dp"
+    app:rippleColor="#ffffff"
+    app:useScale="true"
+    android:id="@+id/DnButton9"
+    android:layout_marginBottom="10dp"/>
+    	
+<com.debashis.io.material.button.DnButton
+    android:layout_width="150dp"
+    android:layout_height="40dp"
+    android:text="React"
+    app:elevation="1dp"
+    android:layout_marginHorizontal="10dp"
+    android:drawableEnd="@drawable/react"
+    app:backgroundTint="#FF4081"
+    app:cornerBottomStartRadius="0dp"
+    app:cornerTopStartRadius="0dp"
+    app:cornerBottomEndRadius="30dp"
+    app:cornerTopEndRadius="30dp"
+    app:rippleColor="#ffffff"
+    app:useScale="true"
+    android:id="@+id/DnButton10"/>
+   
+```
+
 
 ## Author & support
 This project was created by [Debashis Sabar](https://www.instagram.com/mr_deba_000) .
