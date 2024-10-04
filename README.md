@@ -102,6 +102,8 @@ Use material button in the layout via xml
 
 ### Button 1,2 Design
 
+<img src="https://github.com/debanikita/android-material/blob/1380e800214fa65625a7d40d9798fc5b980578d7/20241004_220057.png"/>
+
 ```XML
 
 <com.debashis.io.material.button.DnButton
